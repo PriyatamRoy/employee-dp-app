@@ -1,0 +1,19 @@
+{
+  "name": "emp-db-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server/server.js",
+    "build": "cd client && npm install && npm run build"
+  },
+  "author": "Priyatam Roy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "engines": {
+    "node": "12.18.1"
+  }
+}
