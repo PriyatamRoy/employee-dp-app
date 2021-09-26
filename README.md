@@ -34,7 +34,7 @@ SyntaxError: Unexpected token {
 
 <h3>Client app will run on http://localhost:3000</h2> 
 <h3>API will run on http://localhost:3001</h2> 
-
+<br/><br/>
 <h1>API endpoints:</h1>
 <h2>Create Employee</h2>
 <h4>POST http://localhost:3001/api/employees</h4>
