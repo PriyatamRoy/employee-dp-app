@@ -16,7 +16,7 @@
 <li>npm start</li>
 </ol>
 
-<h2>Error while starting the app</h2>
+<h2>Troubleshoot</h2>
 <div>
 client/node_modules/terser-webpack-plugin/node_modules/p-limit/index.js:29
 		} catch {}
